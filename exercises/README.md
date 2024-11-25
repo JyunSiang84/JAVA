@@ -88,8 +88,8 @@ class Library {
     private List<Book> books;
     // 借書方法
     // 還書方法
-}```
-
+}
+```
 2. 銀行帳戶系統
 ```java
 class Account {
@@ -98,7 +98,8 @@ class Account {
     
     // 存款方法
     // 提款方法
-}```
+}
+```
 ### B. 檔案處理
 1. 基本檔案操作
    - 建立文字檔
@@ -158,7 +159,8 @@ class Student {
 class ScoreManager {
     private List<Student> students;
     // 成績管理相關方法
-}```
+}
+```
 
 2. 檔案處理
   - 使用 CSV 或 JSON 格式儲存
@@ -198,7 +200,7 @@ class PaymentMethod {
    private String name;        // 付款方式名稱
    private PaymentType type;   // 現金/信用卡/轉帳
 }
-
+```
 ### B2. 核心功能模組
 #### B2-1. 收支記錄管理
 1. 新增交易紀錄
