@@ -88,7 +88,8 @@ class Library {
     private List<Book> books;
     // 借書方法
     // 還書方法
-}
+}```
+
 2. 銀行帳戶系統
 ```java
 class Account {
@@ -97,7 +98,7 @@ class Account {
     
     // 存款方法
     // 提款方法
-}
+}```
 ### B. 檔案處理
 1. 基本檔案操作
    - 建立文字檔
@@ -157,7 +158,8 @@ class Student {
 class ScoreManager {
     private List<Student> students;
     // 成績管理相關方法
-}
+}```
+
 2. 檔案處理
   - 使用 CSV 或 JSON 格式儲存
   - 實作檔案讀寫功能
