@@ -1,6 +1,10 @@
-#### P5 練習
+### P5 練習
 
-1. 宣告字串name裡面內容為"Fido"
+#### 1. 變數宣告與初始化 
+``` java
+int size = 27;                     // 宣告整數變數 size 並給予值 27
+String name = "Fido";              // 宣告字串變數 name 並給予值 "Fido"
+```
 
 2. 建立Dog結構，結構名子為myDog，Dog結構中有name和size參數
 
