@@ -30,6 +30,8 @@ JDK主要包含三個重要組件：
 開啟命令提示字元，輸入：
 ```java -version```
 應該看到類似輸出：
+```
 openjdk 21.0.5 2024-10-15 LTS
 OpenJDK Runtime Environment Temurin-21.0.5+11 (build 21.0.5+11-LTS)
 OpenJDK 64-Bit Server VM Temurin-21.0.5+11 (build 21.0.5+11-LTS, mixed mode, sharing)
+```
