@@ -1,7 +1,8 @@
 檔案架構
 
 ```
-part1-basics/week1-environment/
+part1-basics/
+week1-environment/
 ├── setup/
 │   ├── jdk-installation.md            # JDK 安裝指南
 │   ├── ide-setup.md                   # IDE 設置指南
