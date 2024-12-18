@@ -12,8 +12,8 @@
 學習目標：建立開發環境並理解 Java 程式的基本結構
 1.  開發環境設置
 - [X] JDK 安裝與環境變數配置(開發環境設置)
-- [ ] IDE 選擇與安裝（建議使用 IntelliJ IDEA）
-- [ ] 建立第一個 Java 專案
+- [x] IDE 選擇與安裝（建議使用 IntelliJ IDEA）
+- [x] 建立第一個 Java 專案
 - [ ] Maven 基礎與專案管理
 2.  Java 基礎知識
 - [ ] Java 程式的組成結構
